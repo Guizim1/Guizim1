@@ -22,7 +22,6 @@
 - ![Logo do HTML](https://img.shields.io/badge/HTML-e34c26?style=plastic&logo=html5&logoColor=white)
 - ![Logo do CSS](https://img.shields.io/badge/CSS-563d7c?&style=plastic&logo=css3&logoColor=white)
 - ![Logo do Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
-- ![Logo do GNU BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=plastic&logo=GNU%20Bash&logoColor=black)
 - ![Logo Tinkercad](http://tcnpenalar.weebly.com/uploads/2/6/3/2/26325807/published/logo-tinkercad-256.png?1491305205)
 - ![Logo do Ultimaker Cura](https://img.utdstc.com/icon/97a/a5e/97aa5e531fee9e0b18d7028609d091062db6e392c49e45859ba0aeeeb118eae4:200)
 ---
